@@ -124,7 +124,7 @@ The system also implements roles that can be assigned to users:
 
 3. Import the SQL script:
    ```
-   mysql -u username -p < answers.sql
+   mysql -u root -p < answers.sql
    ```
 
 
